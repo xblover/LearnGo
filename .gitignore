@@ -1,0 +1,5 @@
+LearnGo.exe
+.idea/
+pkg/
+.vs/
+main.o
