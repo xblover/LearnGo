@@ -16,4 +16,7 @@ func main() {
 
 	// testChannel()
 
+	r := setupRouter()
+	r.Run(":8080")
+
 }
